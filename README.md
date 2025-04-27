@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reetesh Bhardwaj
 - 👀 I’m interested in Online World
 - 🌱 I’m currently learning Cyber Sequrity
-- 💞️ I’m looking to collaborate with Hackers
+- 💞️ I’m looking to collaborate with Ethical Hackers
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I am a Computer Savvy
