@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reetesh Bhardwaj
 - 👀 I’m interested in Online World
-- 🌱 I’m currently learning Cyber Sequrity
-- 💞️ I’m looking to collaborate with Ethical Hackers
+- 🌱 I’m currently learning Ferontend Developement
+- 💞️ I’m looking to collaborate with Designere and Ferontend Developer
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I am a Computer Savvy
