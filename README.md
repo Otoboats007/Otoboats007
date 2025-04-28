@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reetesh Bhardwaj
 - 👀 I’m interested in Online World
-- 🌱 I’m currently learning Ferontend Developement
-- 💞️ I’m looking to collaborate with Designere and Ferontend Developer
+- 🌱 I’m currently learning Frontend Developement
+- 💞️ I’m looking to collaborate with Designer and Frontend Developer
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I am a Computer Savvy
